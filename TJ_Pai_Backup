@@ -1,0 +1,63 @@
+function show(num,chi,eng,eng2)
+	script.Parent.Front.R.Num.Text = num
+	script.Parent.Front.L.Chi.Text = chi
+	script.Parent.Front.L.Eng1.Text = eng
+	script.Parent.Front.L.Eng2.Text = eng2
+	script.Parent.Side.L.Chi.Text = script.Parent.Front.L.Chi.Text 
+	script.Parent.Side.L.Eng1.Text = script.Parent.Front.L.Eng1.Text 
+	script.Parent.Side.L.Eng2.Text = script.Parent.Front.L.Eng2.Text 
+	script.Parent.Side.R.Num.Text = script.Parent.Front.R.Num.Text 
+	script.Parent.Back.L.Chi.Text = script.Parent.Front.L.Chi.Text 
+	script.Parent.Back.L.Eng1.Text = script.Parent.Front.L.Eng1.Text 
+	script.Parent.Back.L.Eng2.Text = script.Parent.Front.L.Eng2.Text 
+	script.Parent.Back.R.Num.Text = script.Parent.Front.R.Num.Text 
+	script.Parent.Model.Dest.R.Eng.Text = script.Parent.Front.L.Eng1.Text 
+	script.Parent.Model.Dest.R.Chin.Text = script.Parent.Front.L.Chi.Text 
+end
+while wait() do
+
+	if script.Parent.Model.Rt.R.Num.Text == "NIS" then
+		show("","暫停服務","Not In Service","")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "NTHH" then
+		show("NTHH","老豆克控股","NookToHad Holdings","")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "TR" then
+		show("TR","Test Road 01","","")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "TRT" then
+		show("01","路線訓練","Test Route 01","")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "HK" then
+		show("","光復香港 時代革命","Fight for Freedom","Stand with HK")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "P" then
+		show("","私家車","Private","")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "D" then
+		show("","回廠","Depot","")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "T" then
+		show("","試車","On Test","")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "TB" then
+		show("","訓練巴士","Training Bus","")
+		wait(2)
+		show("","招募車長","Year-Round","Bus Driver Recruitment")
+		wait(2)
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "S" then
+		show("","員工巴士","Staff Bus","")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "EFB" then
+		show("","緊急接駁服務","Emergency Feeder Bus","")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "45Y" then
+		show("45","楓山","Fung Hill","")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "45Z" then
+		show("45","夏遼灣碼頭","Ha New Bay Pier Head","")
+
+	else show(script.Parent.Model.Rt.R.Num.Text,"","","") end
+
+end
