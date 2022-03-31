@@ -13,24 +13,6 @@
   },
  {
     "number": 1,
-    "route": "45",
-    "destZ": "楓山",
-    "destY": "夏遼灣",
-    "maxPZ": "3",
-    "priceZ1": "12.8",
-    "halfpriceZ1": "6.4",
-    "priceZ2": "9.0",
-    "halfpriceZ2": "4.5",
-    "priceZ3": "5.0",
-    "halfpriceZ3": "2.5,
-    "maxPY": "2",
-    "priceY1": "12.8",
-    "halfpriceY1": "6.4"
-    "priceY2": "5.0",
-    "halfpriceY2": "2.5"
-  }, 
- {
-    "number": 2,
     "route": "A47",
     "destZ": "楓山",
     "destY": "機場",
