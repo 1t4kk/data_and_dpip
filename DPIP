@@ -361,7 +361,7 @@
   },
   {
     "route": "45",
-    "direction": 1,
+    "direction": 0,
     "NextStop": 14,
     "Chi": "多謝選乘NFBS",
     "ChiTime": 5,
