@@ -37,6 +37,18 @@
  },
  {
     "number": 3,
+    "route": "40",
+    "destZ": "彩灣邨",
+    "destY": "半山站",
+    "maxPZ": "1",
+    "priceZ1": "10.6",
+    "halfpriceZ1": "5.3",
+    "maxPY": "1",
+    "priceY1": "10.6",
+    "halfpriceY1": "5.3"
+ },
+ {
+    "number": 4,
     "route": "49",
     "destZ": "河畔碼頭",
     "destY": "西區醫院",
@@ -50,5 +62,41 @@
     "halfpriceY1": "6.2",
     "priceY2": "7.2",
     "halfpriceY2": "3.6"
+ },
+ {
+    "number": 5,
+    "route": "N49",
+    "destZ": "河畔碼頭",
+    "destY": "西區醫院",
+    "maxPZ": "2",
+    "priceZ1": "13.6",
+    "halfpriceZ1": "6.8",
+    "priceZ2": "9.2",
+    "halfpriceZ2": "4.6",
+    "maxPY": "2",
+    "priceY1": "13.6",
+    "halfpriceY1": "6.8",
+    "priceY2": "8.2",
+    "halfpriceY2": "4.1"
+ },
+ {
+    "number": 6,
+    "route": "53",
+    "destZ": "彩興閣",
+    "destY": "牙軼灣",
+    "maxPZ": "3",
+    "priceZ1": "15.6",
+    "halfpriceZ1": "7.8",
+    "priceZ2": "9.2",
+    "halfpriceZ2": "4.6",
+    "priceZ3": "7.8",
+    "halfpriceZ3": "3.9",
+    "maxPY": "3",
+    "priceY1": "15.6",
+    "halfpriceY1": "7.8",
+    "priceY2": "9.2",
+    "halfpriceY2": "4.6",
+    "priceY3": "7.8",
+    "halfpriceY3": "3.9"
  }
 ]
