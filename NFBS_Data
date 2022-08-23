@@ -98,5 +98,21 @@
     "halfpriceY2": "4.6",
     "priceY3": "7.8",
     "halfpriceY3": "3.9"
+ },
+ {
+    "number": 6,
+    "route": "53M",
+    "destZ": "彩興閣",
+    "destY": "牙軼灣",
+    "maxPZ": "2",
+    "priceZ1": "13.0",
+    "halfpriceZ1": "6.5",
+    "priceZ2": "6.5",
+    "halfpriceZ2": "3.3",
+    "maxPY": "2",
+    "priceY1": "13.0",
+    "halfpriceY1": "6.5",
+    "priceY2": "6.5",
+    "halfpriceY2": "3.3"
  }
 ]
