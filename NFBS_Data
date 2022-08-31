@@ -99,8 +99,28 @@
     "priceY3": "7.8",
     "halfpriceY3": "3.9"
  },
- {
+  {
     "number": 7,
+    "route": "52",
+    "destZ": "河畔碼頭",
+    "destY": "彩灣站",
+    "maxPZ": "3",
+    "priceZ1": "31.2",
+    "halfpriceZ1": "15.6",
+    "priceZ2": "18.4",
+    "halfpriceZ2": "9.2",
+    "priceZ3": "15.6",
+    "halfpriceZ3": "7.8",
+    "maxPY": "3",
+    "priceY1": "31.2",
+    "halfpriceY1": "15.6",
+    "priceY2": "18.4",
+    "halfpriceY2": "9.2",
+    "priceY3": "15.6",
+    "halfpriceY3": "7.8"
+ },
+ {
+    "number": 8,
     "route": "52M",
     "destZ": "半山站",
     "destY": "牙軼灣",
@@ -120,7 +140,7 @@
     "halfpriceY3": "3.9"
  },
 {
-    "number": 8,
+    "number": 9,
     "route": "53",
     "destZ": "彩興閣",
     "destY": "牙軼灣",
@@ -140,7 +160,7 @@
     "halfpriceY3": "3.9"
  },
  {
-    "number": 9,
+    "number": 10,
     "route": "53M",
     "destZ": "彩興閣",
     "destY": "牙琳苑",
