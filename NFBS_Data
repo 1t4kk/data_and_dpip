@@ -79,8 +79,68 @@
     "priceY2": "8.2",
     "halfpriceY2": "4.1"
  },
-  {
+{
     "number": 6,
+    "route": "50",
+    "destZ": "河畔碼頭",
+    "destY": "西灣半島",
+    "maxPZ": "2",
+    "priceZ1": "13.6",
+    "halfpriceZ1": "6.8",
+    "priceZ2": "9.2",
+    "halfpriceZ2": "4.6",
+    "maxPY": "2",
+    "priceY1": "13.6",
+    "halfpriceY1": "6.8",
+    "priceY2": "8.2",
+    "halfpriceY2": "4.1"
+ },
+{
+    "number": 7,
+    "route": "50C",
+    "destZ": "貨櫃碼頭東",
+    "destY": "巴膠花園",
+    "maxPZ": "2",
+    "priceZ1": "11.3",
+    "halfpriceZ1": "5.2",
+    "priceZ2": "6.8",
+    "halfpriceZ2": "3.4",
+    "maxPY": "2",
+    "priceY1": "11.3",
+    "halfpriceY1": "5.2",
+    "priceY2": "6.8",
+    "halfpriceY2": "3.4"
+ },
+{
+    "number": 8,
+    "route": "50U",
+    "destZ": "鳳凰山隧道轉車站",
+    "destY": "半島幹線收費廣場",
+    "maxPZ": "1",
+    "priceZ1": "8.4",
+    "halfpriceZ1": "4.2",
+    "maxPY": "1",
+    "priceY1": "8.4",
+    "halfpriceY1": "4.2",
+ },
+ {
+    "number": 9,
+    "route": "N50",
+    "destZ": "河畔碼頭",
+    "destY": "西區醫院",
+    "maxPZ": "2",
+    "priceZ1": "20.5",
+    "halfpriceZ1": "10.3",
+    "priceZ2": "10.2",
+    "halfpriceZ2": "5.1",
+    "maxPY": "2",
+    "priceY1": "20.5",
+    "halfpriceY1": "10.3",
+    "priceY2": "10.2",
+    "halfpriceY2": "5.1"
+ },
+  {
+    "number": 10,
     "route": "52",
     "destZ": "河畔碼頭",
     "destY": "彩灣站",
@@ -100,7 +160,7 @@
     "halfpriceY3": "3.9"
  },
   {
-    "number": 7,
+    "number": 11,
     "route": "52",
     "destZ": "河畔碼頭",
     "destY": "彩灣站",
@@ -120,7 +180,7 @@
     "halfpriceY3": "7.8"
  },
  {
-    "number": 8,
+    "number": 12,
     "route": "52M",
     "destZ": "半山站",
     "destY": "牙軼灣",
@@ -140,7 +200,7 @@
     "halfpriceY3": "3.9"
  },
 {
-    "number": 9,
+    "number": 13,
     "route": "53",
     "destZ": "彩興閣",
     "destY": "牙軼灣",
@@ -160,7 +220,7 @@
     "halfpriceY3": "3.9"
  },
  {
-    "number": 10,
+    "number": 14,
     "route": "53M",
     "destZ": "彩興閣",
     "destY": "牙琳苑",
@@ -174,5 +234,21 @@
     "halfpriceY1": "6.5",
     "priceY2": "6.5",
     "halfpriceY2": "3.3"
+ },
+ {
+    "number": 15,
+    "route": "54",
+    "destZ": "河畔碼頭",
+    "destY": "西區醫院",
+    "maxPZ": "2",
+    "priceZ1": "12.3",
+    "halfpriceZ1": "6.2",
+    "priceZ2": "6.5",
+    "halfpriceZ2": "3.3",
+    "maxPY": "2",
+    "priceY1": "12.3",
+    "halfpriceY1": "6.2",
+    "priceY2": "7.2",
+    "halfpriceY2": "3.6"
  }
 ]
